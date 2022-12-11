@@ -1,0 +1,15 @@
+*.class
+*.war
+dir.txt
+git_rev.txt
+.settings/
+.project
+.classpath
+*.patch
+*.log
+target/
+/*/bin/
+*/dist/
+*.iml
+.idea
+.DS_Store
